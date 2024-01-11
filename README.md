@@ -5,7 +5,7 @@
 
 The system aims to:
 
-- Detect and localize Arabic car license plates within images.
+- Detect and localize Arabic car license plates within images using classical image processing.
 - Apply OCR to extract text from the detected license plates.
 - Utilize the KNN algorithm for character recognition and classification.
 
